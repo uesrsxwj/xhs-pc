@@ -1,7 +1,7 @@
 # xhs-pc
 小红书爬虫 小红书逆向 数据爬取收集，自动化点赞，源码
 ## 实现过程
-- 通过js逆向破解前端 "x-s": x_s, "x-t"，"x-s-common"，"x-b3-traceid"，"searchId"等参数
+- 通过js逆向破解前端 "x-s": x_s, "x-t"，"x-s-common"，"x-b3-traceid"，"searchId"等参数.
 - 重构代码逻辑，开箱既用
 - 调用python进行api封装
 ## 功能特性
